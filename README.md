@@ -7,7 +7,7 @@
   <br/>
   
   <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/andrey-padias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/andrey-padias-591069165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.youtube.com/c/andreypadias"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
     <a href="https://www.instagram.com/andreypadias/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </div>
@@ -15,7 +15,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Project Manager** and **RPA Expert** with a deep interest in AI technologies. I also serve as a University Professor, sharing my knowledge and experience with the next generation of tech professionals.
+👋 Hi, I'm Andrey Padias — a Technical Project Manager who still writes code just for the fun of it.
+
+🛠 I work mostly with Python, C#, ASP.NET Core, Entity Framework, and UiPath. If it's about building smarter solutions (or finding creative ways to automate the boring stuff), I'm in.
+
+🤖 I'm a chill, nerdy coding enthusiast with a growing passion for AI — lately, I've been diving deep into creating AI agents that (hopefully) don't plot world domination.
+
+🔍 I don't know everything, but I'm really good at Googling. Like, professional level good.
+
+
 
 ```python
 class AndreyPadias:
