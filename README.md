@@ -8,8 +8,8 @@
   
   <div style="display: inline-block;">
     <a href="https://www.linkedin.com/in/andrey-padias-591069165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.youtube.com/c/andreypadias"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-    <a href="https://www.instagram.com/andreypadias/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.youtube.com/@MaybeICode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ class AndreyPadias:
 
 ## 📫 How to Reach Me
 
-Feel free to reach out via any of the social platforms above or send me an email at [your.email@example.com]
+Feel free to reach out via any of the social platforms above or send me an email at [padiascoding@gmail.com]
 
 <div align="center">
   
